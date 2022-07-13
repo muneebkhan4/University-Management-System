@@ -1,0 +1,23 @@
+All the data of teacher student and department is dummy...
+
+In teacher.txt data is saved in the follwoing format:
+
+total teachers
+log_in_id/password/name/age/employee_id/number_of_courses_taught_by_him
+list of course codes
+
+
+In student.txt data is saved in the following format:
+
+log_in_id/password/name/age/roll_no/number_of_courses_studied_by_him
+list of course codes
+
+
+In department.txt data is saved in the following format:
+
+name/
+total courses taught in that department
+course_code/course_name/credit_hours/total_students_registered in it
+
+After list of courses there is it_manager data in the following format:
+log_in_id/password/name/age/employee_id
